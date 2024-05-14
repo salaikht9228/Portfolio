@@ -16,3 +16,14 @@
 
   * [Click here](https://github.com/salaikht9228/Salifort-Motors-Portfolio-Project) for detailed data analysis.
   * [Click here](https://public.tableau.com/views/SalifortMotorsPortfolioProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for charts at Tableau Public.
+
+# Education
+* Ph.D, Neuroscience | National University of Singapore
+* B.S, Life Sciences | National University of Singapore
+
+# Certification
+* [Google Advanced Data Analytics](https://coursera.org/share/dca75852e2ff206abd628653e1cf891c)
+
+# Publication
+* Salai, K. H., Wu, L., Chong, J. R., Chai, Y. L., Gyanwali, B., Robert, C., Hilal, S., Venketasubramanian, N., Dawe, G. S., Chen, C. P., & Lai, M. K. Elevated Soluble TNF-Receptor 1 in the Serum of Predementia Subjects with Cerebral Small Vessel Disease. Biomolecules, 13(3), 525. https://doi.org/10.3390/biom13030525
+* Chia, R. S., Minta, K., Wu, L., Salai, K. H., Chai, Y. L., Hilal, S., Venketasubramanian, N., Chen, C. P., Chong, J. R., & Lai, M. K. Serum Brevican as a Biomarker of Cerebrovascular Disease in an Elderly Cognitively Impaired Cohort. Biomolecules, 14(1), 75. https://doi.org/10.3390/biom14010075
