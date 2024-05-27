@@ -24,7 +24,7 @@
 * Data Analysis: Using decision tree classification, the model identified that the number of assigned projects, last evaluation scores, tenure of work, and whether an employee was overworked (>170 hours per month) were most influential in determining whether an employee left or stayed with the company. Furthermore, the model performed with 94% accuracy and 91% recall.
 
   * [Click here](https://github.com/salaikht9228/Salifort-Motors-Portfolio-Project) for detailed data analysis.
-  * [Click here](https://public.tableau.com/views/SalifortMotorsPortfolioProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for charts at Tableau Public.
+  * [Click here](https://public.tableau.com/views/SalifortMotorsPortfolioProject/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for charts at Tableau Public.
 
 # Education
 * Ph.D, Neuroscience | National University of Singapore
