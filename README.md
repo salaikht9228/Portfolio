@@ -1,4 +1,11 @@
 # Portfolio Projects
+## K-Mean Clustering of Long Beach Patients with Heart Disease
+![Heart_Disease](assets/Heart_Diseases_Medium.jpeg)
+* Circumstance Understanding: A medical centre from Long Beach wants to understand which treatments might work with their patients who have heart disease.The goals in this project are to analyze the data provided by the medical centre and to cluster anonymized data of patients who have been diagnosed with heart disease. If we can cluster the patients with similar characteristics into groups, a particular group of patients might benefit from same treatment, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating.
+* Data Analysis: Using K-Mean Clustering and Decision Tree Classification, the patients were segmented into five clusters, each charaterized by specific medical attributes, revealing significant patterns such as patients with similar cholesterol levels, exercise-induced angia, and fasting blood sugar levels.
+  
+  * [Click here](https://github.com/salaikht9228/Patients-Segmentation-Portfolio-Project) for detailed data analysis.
+  * [Click here](https://public.tableau.com/shared/9XTDPY7B3?:display_count=n&:origin=viz_share_link) for charts at Tableau Public. 
 ## Random Forest Classification of TikTok Videos
 ![TikTok_diagram](assets/TikTok.jpeg)
 * Business Understanding: Millions of videos are posted on TikTok daily, with approximately a million videos being removed daily for violating community guidelines. Due to the high volume of reported videos, it's impractical for human moderators to review them all. Developing a machine learning model to predict whether a video contains a claim or opinion could help direct these videos to human moderators for further review.
