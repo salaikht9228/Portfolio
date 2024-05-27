@@ -2,6 +2,7 @@
 ## K-Mean Clustering of Long Beach Patients with Heart Disease
 ![Heart_Disease](assets/Heart_Diseases_Medium.jpeg)
 * Circumstance Understanding: A medical centre from Long Beach wants to understand which treatments might work with their patients who have heart disease.The goals in this project are to analyze the data provided by the medical centre and to cluster anonymized data of patients who have been diagnosed with heart disease. If we can cluster the patients with similar characteristics into groups, a particular group of patients might benefit from same treatment, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating.
+
 * Data Analysis: Using K-Mean Clustering and Decision Tree Classification, the patients were segmented into five clusters, each charaterized by specific medical attributes, revealing significant patterns such as patients with similar cholesterol levels, exercise-induced angia, and fasting blood sugar levels.
   
   * [Click here](https://github.com/salaikht9228/Patients-Segmentation-Portfolio-Project) for detailed data analysis.
