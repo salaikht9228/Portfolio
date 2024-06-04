@@ -1,5 +1,6 @@
 # Portfolio Projects
-## K-Mean Clustering of Long Beach Patients with Heart Disease
+## Machine Learning Projects
+### K-Mean Clustering of Long Beach Patients with Heart Disease
 ![Heart_Disease](assets/Heart_Diseases_Medium.jpeg)
 * Circumstance Understanding: A medical centre from Long Beach wants to understand which treatments might work with their patients who have heart disease.The goals in this project are to analyze the data provided by the medical centre and to cluster anonymized data of patients who have been diagnosed with heart disease. If we can cluster the patients with similar characteristics into groups, a particular group of patients might benefit from same treatment, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating.
 
@@ -8,7 +9,7 @@
   * [Click here](https://github.com/salaikht9228/Patients-Segmentation-Portfolio-Project) for detailed data analysis.
   * [Click here](https://public.tableau.com/shared/9XTDPY7B3?:display_count=n&:origin=viz_share_link) for charts at Tableau Public. 
 
-## Random Forest Classification of TikTok Videos
+### Random Forest Classification of TikTok Videos
 ![TikTok_diagram](assets/TikTok.jpeg)
 * Business Understanding: Millions of videos are posted on TikTok daily, with approximately a million videos being removed daily for violating community guidelines. Due to the high volume of reported videos, it's impractical for human moderators to review them all. Developing a machine learning model to predict whether a video contains a claim or opinion could help direct these videos to human moderators for further review.
 
@@ -17,7 +18,7 @@
   * [Click here](https://github.com/salaikht9228/TikTok-Portfolio-Project) for detailed data analysis.
   * [Click here](https://public.tableau.com/views/TikTokPortfolioProject_17152345366470/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for charts at Tableau Public.
 
-## Decision Tree Classification of Salifort Motors' Employees
+### Decision Tree Classification of Salifort Motors' Employees
 ![slifort_diagram](assets/Salifort.jpeg)
 * Business Understanding: Hiring and training new employees is costly and time-consuming, making employee retention crucial for mitigating these expenses. A machine learning model predicting employee attrition could help identify at-risk employees and implement targeted retention strategies.
 
@@ -25,6 +26,13 @@
 
   * [Click here](https://github.com/salaikht9228/Salifort-Motors-Portfolio-Project) for detailed data analysis.
   * [Click here](https://public.tableau.com/views/SalifortMotorsPortfolioProject/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for charts at Tableau Public.
+
+## SQL projects
+### Analyzing Students' Mental Health
+* Circumstance Understanding: A study found that international students experienced poorer mental health compared to domestic students, highlighting a need for action to assist the international students. Hence, this project aim to examine whether the length of stay is a contributing factor to the mental health of international students in a Japanese international university.
+* Data Analysis: Using SQL queries, I found that international students staying longer at Japanese International University tend to have higher average depression scores, and social connectedness might be inversely related with students' depression scores. Hence, it is advisable to consider implementing more programs that promote cultural immersion and social connectedness, as these can positively impact international students' mental health.
+
+  * [Click here](https://github.com/salaikht9228/SQL-Students-Mental-Health/tree/main) for detailed data analysis.
 
 # Education
 * Ph.D, Neuroscience | National University of Singapore
