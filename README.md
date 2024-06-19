@@ -1,5 +1,12 @@
 # Portfolio Projects
 ## Machine Learning Projects
+### Content-based Neural Network Recommendation System for Restaurants
+* Business Understanding: Akeed, an app-based food delivery service, seeks to enhance customer experience and operational efficiency by implementing a personalized recommendation system. This system aims to help existing customers discover new restaurants by suggesting vendors that sell similar food and drinks to their previous orders. By offering tailored restaurant recommendations, Akeed can increase user satisfaction, drive higher-order frequencies, and differentiate itself in the competitive food delivery market.
+
+* Model Analysis: The current content-based recommendation system using the neural network algorithm suggests restaurants to customers by identifying vendors that offer similar food and drinks to those previously purchased by the customers from other restaurants on the app. Additionally, the system can recommend restaurants to new users once it gathers information such as food preferences, gender, and location, perhaps through a simple survey at after logging into the app.
+
+  * [Click here](https://github.com/salaikht9228/Restaurant-Recommendation-System) for detailed building of the system.
+ 
 ### K-Mean Clustering of Long Beach Patients with Heart Disease
 * Circumstance Understanding: A medical centre from Long Beach wants to understand which treatments might work with their patients who have heart disease.The goals in this project are to analyze the data provided by the medical centre and to cluster anonymized data of patients who have been diagnosed with heart disease. If we can cluster the patients with similar characteristics into groups, a particular group of patients might benefit from same treatment, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating.
 
