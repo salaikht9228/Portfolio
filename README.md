@@ -43,6 +43,7 @@
 * B.S, Life Sciences | National University of Singapore
 
 # Certification
+* [Machine Learning Specialization](https://coursera.org/share/1ca03c5fef0848d79ac535a37fe6cccd)
 * [Google Advanced Data Analytics](https://coursera.org/share/dca75852e2ff206abd628653e1cf891c)
 
 # Publication
